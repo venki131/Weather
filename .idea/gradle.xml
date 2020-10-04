@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/data_weather" />
+            <option value="$PROJECT_DIR$/domain_weather" />
+            <option value="$PROJECT_DIR$/feature_weather" />
             <option value="$PROJECT_DIR$/navigation" />
             <option value="$PROJECT_DIR$/weatherapp" />
           </set>

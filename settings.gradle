@@ -1,2 +1,2 @@
-include ':weatherapp', ':core', ':navigation'
+include ':weatherapp', ':core', ':navigation', ':data_weather', ':domain_weather', ':feature_weather'
 rootProject.name='Weather'
